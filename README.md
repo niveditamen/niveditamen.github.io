@@ -1,79 +1,108 @@
-# niveditamen.github.io
-# GitHub Workshop
+# Nivedita Menon's Website
 
-A Nevada Bioinformatics Core workshop on GitHub for beginners. This workshop is designed to introduce participants to the basics of using GitHub in an academic setting, including version control, collaboration, and building personal portfolios. Over two days, we will cover essential GitHub skills through hands-on activities, culminating in creating a personal website using GitHub Pages.
+A brief description of what your project does and its purpose.
 
 ## Table of Contents
-1. [Workshop Description](#workshop-description)
-2. [Workshop Outline](#workshop-outline)
-   - [Day 1: GitHub Basics](#day-1-github-basics)
-   - [Day 2: Branching and Personal Websites](#day-2-branching-and-personal-websites)
-3. [Learning Objectives](#learning-objectives)
-4. [Prerequisites](#prerequisites)
-5. [Materials Needed](#materials-needed)
-6. [Resources](#resources)
 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Workshop Description
+## Introduction
 
-This introductory workshop provides a step-by-step guide to using GitHub online and with the GitHub Desktop GUI. It is aimed at academics and students who want to learn how to collaborate on projects, host course materials, and build a professional online presence. Participants will gain practical skills for using GitHub as a version control tool and leave the workshop with a working personal GitHub.io website.
+Provide a more detailed description of your project here. Explain what problem it solves, who the target audience is, and why it's useful. You can also mention any technologies or frameworks that the project is built on.
 
-## Workshop Outline
+## Features
 
-### Day 1: GitHub Basics
-1. **Introduction to Version Control and GitHub**
-   - Overview of version control and Git.
-   - GitHub: navigating, viewing files, and understanding a README.md file.
-   - Key terms: repository, commit, clone, GitHub Pages.
+List the key features of the project. For example:
 
-2. **Creating and Updating a Repository Online**
-   - What is a repository, and how to navigate one?
-   - Hands-on activity: Setting up a repository.
-   - Adding materials (README.md, codes, files) and making commits.
+- Feature 1
+- Feature 2
+- Feature 3
 
-3. **Cloning Repositories and Updating with GitHub Desktop GUI**
-   - Introduction to cloning and updating on your local computer.
-   - Using Push and Pull
-   - Hands-on: Clone your repository and work on your local computer.
+If your project is a work in progress, it’s good to include a roadmap or mention upcoming features.
 
-4. **Introduction to Collaboration**
-   - Collaborating with pull/push requests.
-   - Hands-on activity: Collaborating with another participant and resolving a conflict.
+## Installation
 
-5. **Q&A and Wrap-Up for Day 1**
-   - Open floor for questions.
-   - Discuss the next sessions' content.
+### Prerequisites
 
-### Day 2: Branching and Personal Websites
-1. **Recap and Review**
-   - Quick recap of Day 1
+List any dependencies, system requirements, or other prerequisites here. For example:
 
-2. **Introduction to Branching**
-   - What is branching?
-   - How to use branching.
-   - Hands-on activity: Branching.
+- Python 3.x
+- Node.js
+- Other libraries
 
-3. **Creating a GitHub.io Personal Website**
-   - Introduction to GitHub Pages: turning repositories into static websites.
-   - Demonstration of HTML and templates.
-   - Hands-on activity: Publish a GitHub Pages website (`username.github.io`).
+### Installation Steps
 
+Provide detailed steps for installing the project locally. For example:
 
-## Learning Objectives
-- Understand the purpose and basic concepts of version control using GitHub.
-- Navigate the GitHub interface and create repositories.
-- Collaborate on projects using cloning, pull/push, and conflict resolution.
-- Set up a personal website using GitHub Pages.
+```bash
+# Clone the repository
+git clone https://github.com/username/project-name.git
 
-## Prerequisites
-No prior experience with GitHub is required. During the workshop, participants will set up a basic GitHub account (free to create) and install GitHub Desktop (also free)for local cloning.
+# Navigate into the directory
+cd project-name
 
-## Materials Needed
-- A computer with internet access.
-- A GitHub account ([sign up for free](https://github.com/)).
-- GitHub Desktop installed for local GUI activities ([Download here](https://desktop.github.com/)).
+# Install dependencies (if any)
+pip install -r requirements.txt
+```
 
-## Resources
-- [GitHub Documentation](https://docs.github.com/): Official GitHub documentation for further learning.
-- [Pro Git Book](https://git-scm.com/book/en/v2): A comprehensive book on Git.
-- [GitHub Online Skills Tutorials](https://github.com/skills): Hands-on GitHub skills training.
+## Usage
+
+Provide instructions and examples for using your project. For example:
+
+```bash
+# Example usage
+python script.py --input example.txt
+```
+
+Or:
+
+```r
+devtools::install_github("cassandra-hui/circR")
+library(circR)
+```
+
+If the project has a GUI or web interface, add screenshots or GIFs to demonstrate usage.
+
+Here is an image: 
+![my image](images/myimage.png)
+
+## Contributing
+
+If you want others to contribute to your project, include guidelines here:
+
+- Explain how people can contribute (e.g., submitting issues, pull requests).
+- List any contribution guidelines (e.g., code of conduct, coding standards).
+
+```bash
+# Fork the repository
+git fork https://github.com/username/project-name.git
+
+# Create a new branch
+git checkout -b feature-branch
+
+# Make your changes and commit
+git add .
+git commit -m "Your descriptive commit message"
+
+# Push the branch
+git push origin feature-branch
+
+# Create a pull request
+```
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If anyone has questions or issues, provide a way to get in touch:
+
+- Your Name – [email@example.com](mailto:email@example.com)
+- Project Link – [https://github.com/username/project-name](https://github.com/username/project-name)
